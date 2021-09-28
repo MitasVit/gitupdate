@@ -1,0 +1,2 @@
+D:\C++PROGRAMUJU\Visual studio c++\gitupdate\Debug\gitupdate.exe
+D:\C++PROGRAMUJU\Visual studio c++\gitupdate\Debug\gitupdate.pdb

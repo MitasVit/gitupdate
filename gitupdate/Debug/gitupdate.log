@@ -1,0 +1,3 @@
+﻿  gitupdate.cpp
+D:\C++PROGRAMUJU\Visual studio c++\gitupdate\gitupdate.cpp(59,60): warning C4244: =: std::streamsize se převádí na unsigned int; může dojít ke ztrátě dat.
+  gitupdate.vcxproj -> D:\C++PROGRAMUJU\Visual studio c++\gitupdate\Debug\gitupdate.exe
